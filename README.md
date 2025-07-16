@@ -7,7 +7,7 @@
 
 - 🎨 GUI-based interface using `tkinter`
 - 🔐 Visual explanation of Monoalphabetic substitution logic
-- black & white board for better understanding
+- ♟ black & white board for better understanding
 - 🎞️ Live animation of encryption/decryption steps
 - ➰ Dynamic Key Shuffling: The built-in SHUFFLE button instantly generates a new randomized monoalphabetic substitution key. 
 - 📝 Generates a text log file recording encryption and decryption operations
