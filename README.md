@@ -1,4 +1,4 @@
-# M0n0 4lph4bet1c 
+# M0n0-4lph4bet1c 
 **M0n0-4lph4bet1c** is a Python-based cryptographic tool that visually demonstrates the Monoalphabetic Cipher through an animated and interactive GUI built with tkinter. Tailored for educators, students, and researchers in cybersecurity, it transforms classical encryption into an engaging and insightful experience.
 
 ---
